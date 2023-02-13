@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello world" > Hello.txt | pr
+echo "Hello, World" | pr
